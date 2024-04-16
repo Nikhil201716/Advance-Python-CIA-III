@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+nltk
+spacy
+streamlit
+wordcloud
+scikit-learn
+spacy
+pillow
+opencv-python
