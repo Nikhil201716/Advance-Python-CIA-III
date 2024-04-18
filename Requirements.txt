@@ -9,3 +9,5 @@ scikit-learn
 spacy
 pillow
 opencv-python
+plotly
+
